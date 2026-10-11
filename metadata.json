@@ -1,0 +1,6 @@
+{
+  "name": "Bikaner Hardware & Mill Store - Faridabad Industrial Hub",
+  "description": "Authorized wholesale stockist of heavy duty industrial fasteners, power tools, V-belts, ball bearings, and mill store consumables in Sector 23 Faridabad since 1994.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
